@@ -8,3 +8,6 @@
 
 ### How to use this Respoitory?
 **Fork** and **clone** in local machine and open Pandas.ipynb
+
+### For more info
+[`Blog`](https://towardsdatascience.com/all-the-core-functions-of-python-pandas-you-need-to-know-d219cbd87636)
